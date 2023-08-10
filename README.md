@@ -1,2 +1,1 @@
-# Practice-work
-My C language practice work
+beginner C language coding

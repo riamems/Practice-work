@@ -1,0 +1,15 @@
+#include <stdio.h>
+/**
+* main ();
+* return (0)
+*/
+int main()
+{
+char d1;
+char d2;
+d1 = 'z';
+d2 = 'Z';
+printf("The numeric value of z is: %d.\n", d1);
+printf("The numeic value of Z is: %d.\n", d2);
+return (0);
+}

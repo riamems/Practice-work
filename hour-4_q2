@@ -1,0 +1,15 @@
+#include <stdio.h>
+/**
+ * main ()
+ * return (0)
+ */
+ char main()
+ {
+     char gh1;
+     char gh2;
+     gh1 = 72;
+     gh2 = 104;
+     printf("The character that has the numeric value of 72 is: %c.\n", gh1);
+     printf("The character that has the numeric value of 104 is: %c.\n", gh2);
+     return (0);
+ }
